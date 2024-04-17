@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height of the body to the viewport height */
+    margin: 0;
+    font-size: large;
+}
+#incomeForm {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    align-items: center;
+    
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.button {
+    background-color:rgb(85, 85, 184);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px; 
+    align-items: center;
+}
+.div{
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+#result {
+    font-weight: bold;
+}
+.name{
+    padding-left: 100px;
+    align-items: center;
+}
+
+
+
+
+
